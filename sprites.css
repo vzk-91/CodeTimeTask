@@ -1,0 +1,26 @@
+.map-img, .product, .expert-2, .device-img, .logo, 
+.under-device, .work-img-1, .work-img-2, .work-img-3, .slide-img1, 
+.slide-img2, .slide-img3, .reasons-img-1-2, .reasons-img-1, .reasons-img-2, 
+.reasons-img-3, .reasons-img-4, .reasons-img-5, .reasons-img-6
+{ display: inline-block; background: url('png.png') no-repeat; overflow: hidden; text-indent: -9999px; text-align: left; }
+ 
+.map-img { background-position: -5px -0px; width: 1062px; height: 586px; }
+.product { background-position: -5px -591px; width: 410px; height: 410px; }
+.expert-2 { background-position: -420px -591px; width: 374px; height: 499px; }
+.device-img { background-position: -799px -591px; width: 251px; height: 374px; }
+.logo { background-position: -799px -970px; width: 217px; height: 69px; }
+.under-device { background-position: -5px -1006px; width: 210px; height: 225px; }
+.work-img-1 { background-position: -220px -1006px; width: 188px; height: 188px; }
+.work-img-2 { background-position: -799px -1044px; width: 186px; height: 185px; }
+.work-img-3 { background-position: -413px -1095px; width: 184px; height: 183px; }
+.slide-img1 { background-position: -602px -1095px; width: 182px; height: 181px; }
+.slide-img2 { background-position: -220px -1199px; width: 182px; height: 181px; }
+.slide-img3 { background-position: -789px -1234px; width: 182px; height: 181px; }
+.reasons-img-1-2 { background-position: -5px -1236px; width: 93px; height: 93px; }
+.reasons-img-1 { background-position: -103px -1236px; width: 93px; height: 93px; }
+.reasons-img-2 { background-position: -602px -1281px; width: 93px; height: 93px; }
+.reasons-img-3 { background-position: -407px -1283px; width: 93px; height: 93px; }
+.reasons-img-4 { background-position: -5px -1334px; width: 93px; height: 93px; }
+.reasons-img-5 { background-position: -103px -1334px; width: 93px; height: 93px; }
+.reasons-img-6 { background-position: -505px -1379px; width: 93px; height: 93px; }
+
